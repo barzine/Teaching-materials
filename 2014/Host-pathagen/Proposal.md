@@ -11,7 +11,7 @@ Dataset
 
 A starting point for the project will be the raw data from: 
 
-BMC Genomics. 2011 Nov 30;12:587. doi: 10.1186/1471-2164-12-587. http://www.ncbi.nlm.nih.gov/pubmed/22129310
+BMC Genomics. 2011 Nov 30;12:587. doi: 10.1186/1471-2164-12-587. http://www.ncbi.nlm.nih.gov/pubmed/22129310    
 López-Barragán MJ, Lemieux J, Quiñones M, Williamson KC, Molina-Cruz A, Cui K, Barillas-Mury C, Zhao K, Su XZ
 Directional gene expression and antisense transcripts in sexual and asexual stages of Plasmodium falciparum. 
 
