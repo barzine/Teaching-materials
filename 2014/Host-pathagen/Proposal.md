@@ -17,7 +17,9 @@ Directional gene expression and antisense transcripts in sexual and asexual stag
 
 We will take also advantage of the available data in PlasmoDB http://plasmodb.org/plasmo/
 
-Project aims:
+
+Project aims
+=====
 
 + Process raw RNA seq data
   + Integrate RNAseq information with the interactome
