@@ -23,18 +23,17 @@ We will take also advantage of the available data in PlasmoDB http://plasmodb.or
 Project aims:
 
 + Process raw RNA seq data
-++ Integrate RNAseq information with the interactome
-++ Quality check of the reads + Filtering 
-++ Mapping to the genome
-++ Quantification of expression levels
-++ Differential expression analysis
-++ Import protein interaction information using Cytoscape
-++ Confidence score fitering
+  + Integrate RNAseq information with the interactome
+  + Quality check of the reads + Filtering 
+  + Mapping to the genome
+  + Quantification of expression levels
+  + Differential expression analysis
+  + Import protein interaction information using Cytoscape
+  + Confidence score fitering
 
 + Integrate differential expression values in your network
-
-++ ID mapping
-++ Expression values visualization
-++ Functional analysis of the network
-++ Topology analysis
-++ Annotation enrichment analysis
+  + ID mapping
+  + Expression values visualization
+  + Functional analysis of the network
+  + Topology analysis
+  + Annotation enrichment analysis
