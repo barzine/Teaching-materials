@@ -10,7 +10,11 @@ Useful ressources
 
 Database
 ----
-ENA - http://www.ebi.ac.uk/ena/
+ENA (European Nucleotid Archive) - http://www.ebi.ac.uk/ena/
+
+SRA (Sequence Read Archive) - http://www.ncbi.nlm.nih.gov/Traces/sra/
+
+PlasmoDb - http://plasmodb.org/plasmo/
 
 Tools
 ---
