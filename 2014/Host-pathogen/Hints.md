@@ -27,11 +27,14 @@ SRA (Sequence Read Archive) - http://www.ncbi.nlm.nih.gov/Traces/sra/
 
 PlasmoDB - http://plasmodb.org/plasmo/
 
-Tools
----
-Readseq -- biosequence conversion tool (official website: http://iubio.bio.indiana.edu/cgi-bin/readseq.cgi)
 
 
 Tutorial
 ---
 RNA-seq pratical - https://github.com/barzine/TeachingMaterial/tree/Host-Pathogen-SummerCourse2014
+
+
+
+Tools
+---
+Readseq -- biosequence conversion tool (official website: http://iubio.bio.indiana.edu/cgi-bin/readseq.cgi)
