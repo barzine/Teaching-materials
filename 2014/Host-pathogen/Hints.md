@@ -2,7 +2,18 @@ Mapping
 =====
 
 + Pick your mapper:
-  + Do you have a reference genome
+  + What kind of study are you doing? What would be the downstream analyses?
+  + Do you need a reference? Should it be the genome?
+    + Where can you find it?
+    + Is it in the correct format? How can you change it?
+  + What are your reads caracteristics?
+
+
++ Preparation of the reads
+  + Do they need a preprocessing (demultiplexing)?
+  + What is their quality?
+
+
 
 
 Useful ressources
@@ -19,3 +30,8 @@ PlasmoDB - http://plasmodb.org/plasmo/
 Tools
 ---
 Readseq -- biosequence conversion tool (official website: http://iubio.bio.indiana.edu/cgi-bin/readseq.cgi)
+
+
+Tutorial
+---
+RNA-seq pratical - https://github.com/barzine/TeachingMaterial/tree/Host-Pathogen-SummerCourse2014
