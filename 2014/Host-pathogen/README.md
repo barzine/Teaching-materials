@@ -8,3 +8,6 @@ Directional gene expression and antisense transcripts in sexual and asexual stag
 López-Barragán MJ1, Lemieux J, Quiñones M, Williamson KC, Molina-Cruz A, Cui K, Barillas-Mury C, Zhao K, Su XZ
 
 
+Associated study number: SRP009370
+
+
